@@ -1,6 +1,8 @@
+![Alt text](/Host_a_Static_Website_on_AWS.png)
+
 ---
 
-# **Host a Static Website on AWS**  
+# **Deploy a Static Website on AWS**  
 
 This project demonstrates how to deploy a static HTML web application on AWS using an EC2 instance. It includes infrastructure setup, security configurations, and scalability features.
 
